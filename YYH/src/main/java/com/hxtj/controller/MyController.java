@@ -7,6 +7,7 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 @RequestMapping(value = "/myspringboot")
 public class MyController {
+	//返回成功
 	@GetMapping("/success")
 	public String get() {
 		return "success";
