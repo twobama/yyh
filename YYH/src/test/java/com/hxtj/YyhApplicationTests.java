@@ -9,7 +9,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 @SpringBootTest
 public class YyhApplicationTests {
 
-	@Test//aaaa222
+	@Test//aaaa222aaaa111
 	public void contextLoads() {
 	}
 
